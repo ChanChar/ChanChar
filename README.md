@@ -1,16 +1,14 @@
-### Hi there 👋
+## Charles C. Lee 👨‍💻
 
-<!--
-**ChanChar/ChanChar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+:wave: Hey there, I'm a senior software engineer @Shopify working on [Shopify Ping](https://www.shopify.com/ping) 💬 & [Kit](https://www.shopify.com/kit) 🤖.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### Get in touch :mailbox:
+
+* :bird: [Twitter](https://twitter.com/reallychar)
+* :office: [LinkedIn](https://www.linkedin.com/in/charleschanlee)
+* :email: [Email](contact@charleschanlee.com)
