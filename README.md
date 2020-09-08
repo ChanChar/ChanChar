@@ -6,4 +6,4 @@
 
 * :bird: [Twitter](https://twitter.com/reallychar)
 * :office: [LinkedIn](https://www.linkedin.com/in/charleschanlee)
-* :email: [Email](contact@charleschanlee.com)
+* :email: [Email](mailto:contact@charleschanlee.com)
